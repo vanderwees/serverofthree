@@ -1,0 +1,16 @@
+{
+  "name": "serverofthree",
+  "version": "1.0.0",
+  "description": "Server for the Game of Three",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/vanderwees/serverofthree.git",
+    "type": "git"
+  },
+  "author": "bernard@vdwe.es",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
